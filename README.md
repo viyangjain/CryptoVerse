@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+## Getting start in Crypto World
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- On start project using npm start
+- We will see the statistics of the crypto world!
 
-## Available Scripts
+![CryptoVerse - Google Chrome 03_06_2022 14_30_50](https://user-images.githubusercontent.com/76421847/171823876-f67c55be-fa77-4fd4-b6c1-ce7f6393b7cb.png)
 
-In the project directory, you can run:
+# Now we will see the world's top 10 cryptocurrencies!
 
-### `npm start`
+- using coinranking api.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![CryptoVerse - Google Chrome 03_06_2022 14_31_00](https://user-images.githubusercontent.com/76421847/171823974-ae7adeee-a70d-4e69-b111-bfb3e0ceeb94.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+By clicking on Top 10 Currencies show more option we direccted to Cryptocurrencies page which show Top 100 cryptocurrencies in the world, We also can search any of them by clicking on search Cryptocurrencies.
 
-### `npm test`
+![CryptoVerse - Google Chrome 03_06_2022 14_31_09](https://user-images.githubusercontent.com/76421847/171824015-10ceba96-6df6-4d07-b30a-79ea9eb79677.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# We also can see Latest nine News on Cryptocurrencies.
+- using bing search news Api.
 
-### `npm run build`
+![CryptoVerse - Google Chrome 03_06_2022 14_31_25](https://user-images.githubusercontent.com/76421847/171824085-ae8ac2bb-d717-46d5-8c2d-6b5b5cbb2c90.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+On clicking show more latest news option we direct land on news page.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![CryptoVerse - Google Chrome 03_06_2022 14_31_33](https://user-images.githubusercontent.com/76421847/171824124-327e2777-fd7e-4505-93d5-5c69dc8f4047.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+We can search latest news based on any cryptocurrency.
 
-### `npm run eject`
+![CryptoVerse - Google Chrome 03_06_2022 14_31_42](https://user-images.githubusercontent.com/76421847/171824158-6e4d0482-4ddb-4b4d-9f90-00a6015a2dc5.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
